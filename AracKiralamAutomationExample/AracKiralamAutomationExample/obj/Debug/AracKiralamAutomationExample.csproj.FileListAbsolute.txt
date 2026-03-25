@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\AracKiralama\AracKiralamAutomationExample\AracKiralamAutomationExample\obj\Debug\AracKiralamAutomationExample.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\AracKiralama\AracKiralamAutomationExample\AracKiralamAutomationExample\obj\Debug\AracKiralamAutomationExample.Form1.resources
+C:\Users\PC\source\repos\AracKiralama\AracKiralamAutomationExample\AracKiralamAutomationExample\obj\Debug\AracKiralamAutomationExample.Properties.Resources.resources
+C:\Users\PC\source\repos\AracKiralama\AracKiralamAutomationExample\AracKiralamAutomationExample\obj\Debug\AracKiralamAutomationExample.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\AracKiralama\AracKiralamAutomationExample\AracKiralamAutomationExample\obj\Debug\AracKiralamAutomationExample.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\AracKiralama\AracKiralamAutomationExample\AracKiralamAutomationExample\bin\Debug\AracKiralamAutomationExample.exe.config
+C:\Users\PC\source\repos\AracKiralama\AracKiralamAutomationExample\AracKiralamAutomationExample\bin\Debug\AracKiralamAutomationExample.exe
+C:\Users\PC\source\repos\AracKiralama\AracKiralamAutomationExample\AracKiralamAutomationExample\bin\Debug\AracKiralamAutomationExample.pdb
+C:\Users\PC\source\repos\AracKiralama\AracKiralamAutomationExample\AracKiralamAutomationExample\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\source\repos\AracKiralama\AracKiralamAutomationExample\AracKiralamAutomationExample\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\PC\source\repos\AracKiralama\AracKiralamAutomationExample\AracKiralamAutomationExample\obj\Debug\AracKira.6DDAF4EB.Up2Date
+C:\Users\PC\source\repos\AracKiralama\AracKiralamAutomationExample\AracKiralamAutomationExample\obj\Debug\AracKiralamAutomationExample.exe
+C:\Users\PC\source\repos\AracKiralama\AracKiralamAutomationExample\AracKiralamAutomationExample\obj\Debug\AracKiralamAutomationExample.pdb
+C:\Users\PC\source\repos\AracKiralama\AracKiralamAutomationExample\AracKiralamAutomationExample\obj\Debug\AracKiralamAutomationExample.exe.config
+C:\Users\PC\source\repos\AracKiralama\AracKiralamAutomationExample\AracKiralamAutomationExample\obj\Debug\AracKiralamAutomationExample.Form_User_Login.resources

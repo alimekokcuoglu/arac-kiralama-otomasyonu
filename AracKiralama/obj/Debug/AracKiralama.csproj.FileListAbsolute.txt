@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Properties.Resources.resources
+C:\Users\PC\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\AracKiralama\AracKiralama\obj\Debug\YBSAutomationExample.Form1.resources
+C:\Users\PC\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Form_User_Login_cs.resources
+C:\Users\PC\source\repos\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe.config
+C:\Users\PC\source\repos\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe
+C:\Users\PC\source\repos\AracKiralama\AracKiralama\bin\Debug\AracKiralama.pdb
+C:\Users\PC\source\repos\AracKiralama\AracKiralama\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\source\repos\AracKiralama\AracKiralama\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\PC\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKira.E8F97AB2.Up2Date
+C:\Users\PC\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.exe
+C:\Users\PC\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.pdb
+C:\Users\PC\source\repos\AracKiralama\AracKiralama\obj\Debug\AracKiralama.exe.config
